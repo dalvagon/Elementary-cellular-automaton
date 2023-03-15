@@ -1,4 +1,4 @@
-Elementary celular automaton in p5js using random initial configurations. <br/>
+Elementary cellular automaton in p5js using random initial configurations. <br/>
 
 Rule 0: <br/> 
  ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule0.png?raw=true) <br/> 
