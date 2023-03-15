@@ -1,512 +1,512 @@
-Rule 0: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule0.png?raw=true) \ 
-Rule 1: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule1.png?raw=true) \ 
-Rule 2: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule2.png?raw=true) \ 
-Rule 3: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule3.png?raw=true) \ 
-Rule 4: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule4.png?raw=true) \ 
-Rule 5: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule5.png?raw=true) \ 
-Rule 6: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule6.png?raw=true) \ 
-Rule 7: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule7.png?raw=true) \ 
-Rule 8: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule8.png?raw=true) \ 
-Rule 9: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule9.png?raw=true) \ 
-Rule 10: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule10.png?raw=true) \ 
-Rule 11: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule11.png?raw=true) \ 
-Rule 12: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule12.png?raw=true) \ 
-Rule 13: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule13.png?raw=true) \ 
-Rule 14: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule14.png?raw=true) \ 
-Rule 15: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule15.png?raw=true) \ 
-Rule 16: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule16.png?raw=true) \ 
-Rule 17: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule17.png?raw=true) \ 
-Rule 18: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule18.png?raw=true) \ 
-Rule 19: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule19.png?raw=true) \ 
-Rule 20: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule20.png?raw=true) \ 
-Rule 21: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule21.png?raw=true) \ 
-Rule 22: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule22.png?raw=true) \ 
-Rule 23: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule23.png?raw=true) \ 
-Rule 24: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule24.png?raw=true) \ 
-Rule 25: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule25.png?raw=true) \ 
-Rule 26: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule26.png?raw=true) \ 
-Rule 27: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule27.png?raw=true) \ 
-Rule 28: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule28.png?raw=true) \ 
-Rule 29: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule29.png?raw=true) \ 
-Rule 30: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule30.png?raw=true) \ 
-Rule 31: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule31.png?raw=true) \ 
-Rule 32: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule32.png?raw=true) \ 
-Rule 33: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule33.png?raw=true) \ 
-Rule 34: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule34.png?raw=true) \ 
-Rule 35: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule35.png?raw=true) \ 
-Rule 36: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule36.png?raw=true) \ 
-Rule 37: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule37.png?raw=true) \ 
-Rule 38: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule38.png?raw=true) \ 
-Rule 39: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule39.png?raw=true) \ 
-Rule 40: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule40.png?raw=true) \ 
-Rule 41: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule41.png?raw=true) \ 
-Rule 42: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule42.png?raw=true) \ 
-Rule 43: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule43.png?raw=true) \ 
-Rule 44: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule44.png?raw=true) \ 
-Rule 45: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule45.png?raw=true) \ 
-Rule 46: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule46.png?raw=true) \ 
-Rule 47: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule47.png?raw=true) \ 
-Rule 48: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule48.png?raw=true) \ 
-Rule 49: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule49.png?raw=true) \ 
-Rule 50: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule50.png?raw=true) \ 
-Rule 51: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule51.png?raw=true) \ 
-Rule 52: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule52.png?raw=true) \ 
-Rule 53: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule53.png?raw=true) \ 
-Rule 54: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule54.png?raw=true) \ 
-Rule 55: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule55.png?raw=true) \ 
-Rule 56: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule56.png?raw=true) \ 
-Rule 57: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule57.png?raw=true) \ 
-Rule 58: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule58.png?raw=true) \ 
-Rule 59: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule59.png?raw=true) \ 
-Rule 60: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule60.png?raw=true) \ 
-Rule 61: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule61.png?raw=true) \ 
-Rule 62: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule62.png?raw=true) \ 
-Rule 63: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule63.png?raw=true) \ 
-Rule 64: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule64.png?raw=true) \ 
-Rule 65: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule65.png?raw=true) \ 
-Rule 66: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule66.png?raw=true) \ 
-Rule 67: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule67.png?raw=true) \ 
-Rule 68: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule68.png?raw=true) \ 
-Rule 69: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule69.png?raw=true) \ 
-Rule 70: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule70.png?raw=true) \ 
-Rule 71: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule71.png?raw=true) \ 
-Rule 72: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule72.png?raw=true) \ 
-Rule 73: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule73.png?raw=true) \ 
-Rule 74: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule74.png?raw=true) \ 
-Rule 75: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule75.png?raw=true) \ 
-Rule 76: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule76.png?raw=true) \ 
-Rule 77: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule77.png?raw=true) \ 
-Rule 78: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule78.png?raw=true) \ 
-Rule 79: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule79.png?raw=true) \ 
-Rule 80: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule80.png?raw=true) \ 
-Rule 81: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule81.png?raw=true) \ 
-Rule 82: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule82.png?raw=true) \ 
-Rule 83: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule83.png?raw=true) \ 
-Rule 84: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule84.png?raw=true) \ 
-Rule 85: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule85.png?raw=true) \ 
-Rule 86: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule86.png?raw=true) \ 
-Rule 87: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule87.png?raw=true) \ 
-Rule 88: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule88.png?raw=true) \ 
-Rule 89: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule89.png?raw=true) \ 
-Rule 90: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule90.png?raw=true) \ 
-Rule 91: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule91.png?raw=true) \ 
-Rule 92: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule92.png?raw=true) \ 
-Rule 93: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule93.png?raw=true) \ 
-Rule 94: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule94.png?raw=true) \ 
-Rule 95: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule95.png?raw=true) \ 
-Rule 96: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule96.png?raw=true) \ 
-Rule 97: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule97.png?raw=true) \ 
-Rule 98: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule98.png?raw=true) \ 
-Rule 99: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule99.png?raw=true) \ 
-Rule 100: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule100.png?raw=true) \ 
-Rule 101: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule101.png?raw=true) \ 
-Rule 102: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule102.png?raw=true) \ 
-Rule 103: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule103.png?raw=true) \ 
-Rule 104: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule104.png?raw=true) \ 
-Rule 105: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule105.png?raw=true) \ 
-Rule 106: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule106.png?raw=true) \ 
-Rule 107: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule107.png?raw=true) \ 
-Rule 108: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule108.png?raw=true) \ 
-Rule 109: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule109.png?raw=true) \ 
-Rule 110: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule110.png?raw=true) \ 
-Rule 111: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule111.png?raw=true) \ 
-Rule 112: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule112.png?raw=true) \ 
-Rule 113: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule113.png?raw=true) \ 
-Rule 114: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule114.png?raw=true) \ 
-Rule 115: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule115.png?raw=true) \ 
-Rule 116: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule116.png?raw=true) \ 
-Rule 117: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule117.png?raw=true) \ 
-Rule 118: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule118.png?raw=true) \ 
-Rule 119: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule119.png?raw=true) \ 
-Rule 120: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule120.png?raw=true) \ 
-Rule 121: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule121.png?raw=true) \ 
-Rule 122: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule122.png?raw=true) \ 
-Rule 123: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule123.png?raw=true) \ 
-Rule 124: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule124.png?raw=true) \ 
-Rule 125: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule125.png?raw=true) \ 
-Rule 126: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule126.png?raw=true) \ 
-Rule 127: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule127.png?raw=true) \ 
-Rule 128: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule128.png?raw=true) \ 
-Rule 129: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule129.png?raw=true) \ 
-Rule 130: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule130.png?raw=true) \ 
-Rule 131: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule131.png?raw=true) \ 
-Rule 132: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule132.png?raw=true) \ 
-Rule 133: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule133.png?raw=true) \ 
-Rule 134: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule134.png?raw=true) \ 
-Rule 135: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule135.png?raw=true) \ 
-Rule 136: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule136.png?raw=true) \ 
-Rule 137: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule137.png?raw=true) \ 
-Rule 138: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule138.png?raw=true) \ 
-Rule 139: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule139.png?raw=true) \ 
-Rule 140: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule140.png?raw=true) \ 
-Rule 141: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule141.png?raw=true) \ 
-Rule 142: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule142.png?raw=true) \ 
-Rule 143: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule143.png?raw=true) \ 
-Rule 144: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule144.png?raw=true) \ 
-Rule 145: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule145.png?raw=true) \ 
-Rule 146: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule146.png?raw=true) \ 
-Rule 147: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule147.png?raw=true) \ 
-Rule 148: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule148.png?raw=true) \ 
-Rule 149: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule149.png?raw=true) \ 
-Rule 150: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule150.png?raw=true) \ 
-Rule 151: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule151.png?raw=true) \ 
-Rule 152: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule152.png?raw=true) \ 
-Rule 153: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule153.png?raw=true) \ 
-Rule 154: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule154.png?raw=true) \ 
-Rule 155: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule155.png?raw=true) \ 
-Rule 156: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule156.png?raw=true) \ 
-Rule 157: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule157.png?raw=true) \ 
-Rule 158: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule158.png?raw=true) \ 
-Rule 159: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule159.png?raw=true) \ 
-Rule 160: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule160.png?raw=true) \ 
-Rule 161: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule161.png?raw=true) \ 
-Rule 162: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule162.png?raw=true) \ 
-Rule 163: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule163.png?raw=true) \ 
-Rule 164: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule164.png?raw=true) \ 
-Rule 165: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule165.png?raw=true) \ 
-Rule 166: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule166.png?raw=true) \ 
-Rule 167: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule167.png?raw=true) \ 
-Rule 168: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule168.png?raw=true) \ 
-Rule 169: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule169.png?raw=true) \ 
-Rule 170: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule170.png?raw=true) \ 
-Rule 171: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule171.png?raw=true) \ 
-Rule 172: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule172.png?raw=true) \ 
-Rule 173: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule173.png?raw=true) \ 
-Rule 174: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule174.png?raw=true) \ 
-Rule 175: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule175.png?raw=true) \ 
-Rule 176: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule176.png?raw=true) \ 
-Rule 177: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule177.png?raw=true) \ 
-Rule 178: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule178.png?raw=true) \ 
-Rule 179: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule179.png?raw=true) \ 
-Rule 180: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule180.png?raw=true) \ 
-Rule 181: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule181.png?raw=true) \ 
-Rule 182: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule182.png?raw=true) \ 
-Rule 183: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule183.png?raw=true) \ 
-Rule 184: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule184.png?raw=true) \ 
-Rule 185: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule185.png?raw=true) \ 
-Rule 186: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule186.png?raw=true) \ 
-Rule 187: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule187.png?raw=true) \ 
-Rule 188: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule188.png?raw=true) \ 
-Rule 189: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule189.png?raw=true) \ 
-Rule 190: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule190.png?raw=true) \ 
-Rule 191: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule191.png?raw=true) \ 
-Rule 192: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule192.png?raw=true) \ 
-Rule 193: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule193.png?raw=true) \ 
-Rule 194: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule194.png?raw=true) \ 
-Rule 195: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule195.png?raw=true) \ 
-Rule 196: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule196.png?raw=true) \ 
-Rule 197: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule197.png?raw=true) \ 
-Rule 198: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule198.png?raw=true) \ 
-Rule 199: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule199.png?raw=true) \ 
-Rule 200: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule200.png?raw=true) \ 
-Rule 201: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule201.png?raw=true) \ 
-Rule 202: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule202.png?raw=true) \ 
-Rule 203: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule203.png?raw=true) \ 
-Rule 204: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule204.png?raw=true) \ 
-Rule 205: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule205.png?raw=true) \ 
-Rule 206: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule206.png?raw=true) \ 
-Rule 207: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule207.png?raw=true) \ 
-Rule 208: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule208.png?raw=true) \ 
-Rule 209: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule209.png?raw=true) \ 
-Rule 210: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule210.png?raw=true) \ 
-Rule 211: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule211.png?raw=true) \ 
-Rule 212: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule212.png?raw=true) \ 
-Rule 213: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule213.png?raw=true) \ 
-Rule 214: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule214.png?raw=true) \ 
-Rule 215: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule215.png?raw=true) \ 
-Rule 216: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule216.png?raw=true) \ 
-Rule 217: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule217.png?raw=true) \ 
-Rule 218: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule218.png?raw=true) \ 
-Rule 219: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule219.png?raw=true) \ 
-Rule 220: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule220.png?raw=true) \ 
-Rule 221: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule221.png?raw=true) \ 
-Rule 222: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule222.png?raw=true) \ 
-Rule 223: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule223.png?raw=true) \ 
-Rule 224: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule224.png?raw=true) \ 
-Rule 225: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule225.png?raw=true) \ 
-Rule 226: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule226.png?raw=true) \ 
-Rule 227: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule227.png?raw=true) \ 
-Rule 228: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule228.png?raw=true) \ 
-Rule 229: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule229.png?raw=true) \ 
-Rule 230: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule230.png?raw=true) \ 
-Rule 231: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule231.png?raw=true) \ 
-Rule 232: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule232.png?raw=true) \ 
-Rule 233: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule233.png?raw=true) \ 
-Rule 234: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule234.png?raw=true) \ 
-Rule 235: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule235.png?raw=true) \ 
-Rule 236: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule236.png?raw=true) \ 
-Rule 237: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule237.png?raw=true) \ 
-Rule 238: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule238.png?raw=true) \ 
-Rule 239: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule239.png?raw=true) \ 
-Rule 240: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule240.png?raw=true) \ 
-Rule 241: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule241.png?raw=true) \ 
-Rule 242: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule242.png?raw=true) \ 
-Rule 243: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule243.png?raw=true) \ 
-Rule 244: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule244.png?raw=true) \ 
-Rule 245: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule245.png?raw=true) \ 
-Rule 246: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule246.png?raw=true) \ 
-Rule 247: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule247.png?raw=true) \ 
-Rule 248: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule248.png?raw=true) \ 
-Rule 249: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule249.png?raw=true) \ 
-Rule 250: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule250.png?raw=true) \ 
-Rule 251: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule251.png?raw=true) \ 
-Rule 252: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule252.png?raw=true) \ 
-Rule 253: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule253.png?raw=true) \ 
-Rule 254: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule254.png?raw=true) \ 
-Rule 255: \ 
- ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule255.png?raw=true) \ 
+Rule 0: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule0.png?raw=true) <br/> 
+Rule 1: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule1.png?raw=true) <br/> 
+Rule 2: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule2.png?raw=true) <br/> 
+Rule 3: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule3.png?raw=true) <br/> 
+Rule 4: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule4.png?raw=true) <br/> 
+Rule 5: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule5.png?raw=true) <br/> 
+Rule 6: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule6.png?raw=true) <br/> 
+Rule 7: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule7.png?raw=true) <br/> 
+Rule 8: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule8.png?raw=true) <br/> 
+Rule 9: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule9.png?raw=true) <br/> 
+Rule 10: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule10.png?raw=true) <br/> 
+Rule 11: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule11.png?raw=true) <br/> 
+Rule 12: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule12.png?raw=true) <br/> 
+Rule 13: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule13.png?raw=true) <br/> 
+Rule 14: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule14.png?raw=true) <br/> 
+Rule 15: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule15.png?raw=true) <br/> 
+Rule 16: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule16.png?raw=true) <br/> 
+Rule 17: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule17.png?raw=true) <br/> 
+Rule 18: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule18.png?raw=true) <br/> 
+Rule 19: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule19.png?raw=true) <br/> 
+Rule 20: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule20.png?raw=true) <br/> 
+Rule 21: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule21.png?raw=true) <br/> 
+Rule 22: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule22.png?raw=true) <br/> 
+Rule 23: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule23.png?raw=true) <br/> 
+Rule 24: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule24.png?raw=true) <br/> 
+Rule 25: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule25.png?raw=true) <br/> 
+Rule 26: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule26.png?raw=true) <br/> 
+Rule 27: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule27.png?raw=true) <br/> 
+Rule 28: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule28.png?raw=true) <br/> 
+Rule 29: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule29.png?raw=true) <br/> 
+Rule 30: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule30.png?raw=true) <br/> 
+Rule 31: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule31.png?raw=true) <br/> 
+Rule 32: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule32.png?raw=true) <br/> 
+Rule 33: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule33.png?raw=true) <br/> 
+Rule 34: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule34.png?raw=true) <br/> 
+Rule 35: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule35.png?raw=true) <br/> 
+Rule 36: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule36.png?raw=true) <br/> 
+Rule 37: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule37.png?raw=true) <br/> 
+Rule 38: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule38.png?raw=true) <br/> 
+Rule 39: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule39.png?raw=true) <br/> 
+Rule 40: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule40.png?raw=true) <br/> 
+Rule 41: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule41.png?raw=true) <br/> 
+Rule 42: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule42.png?raw=true) <br/> 
+Rule 43: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule43.png?raw=true) <br/> 
+Rule 44: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule44.png?raw=true) <br/> 
+Rule 45: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule45.png?raw=true) <br/> 
+Rule 46: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule46.png?raw=true) <br/> 
+Rule 47: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule47.png?raw=true) <br/> 
+Rule 48: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule48.png?raw=true) <br/> 
+Rule 49: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule49.png?raw=true) <br/> 
+Rule 50: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule50.png?raw=true) <br/> 
+Rule 51: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule51.png?raw=true) <br/> 
+Rule 52: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule52.png?raw=true) <br/> 
+Rule 53: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule53.png?raw=true) <br/> 
+Rule 54: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule54.png?raw=true) <br/> 
+Rule 55: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule55.png?raw=true) <br/> 
+Rule 56: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule56.png?raw=true) <br/> 
+Rule 57: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule57.png?raw=true) <br/> 
+Rule 58: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule58.png?raw=true) <br/> 
+Rule 59: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule59.png?raw=true) <br/> 
+Rule 60: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule60.png?raw=true) <br/> 
+Rule 61: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule61.png?raw=true) <br/> 
+Rule 62: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule62.png?raw=true) <br/> 
+Rule 63: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule63.png?raw=true) <br/> 
+Rule 64: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule64.png?raw=true) <br/> 
+Rule 65: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule65.png?raw=true) <br/> 
+Rule 66: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule66.png?raw=true) <br/> 
+Rule 67: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule67.png?raw=true) <br/> 
+Rule 68: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule68.png?raw=true) <br/> 
+Rule 69: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule69.png?raw=true) <br/> 
+Rule 70: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule70.png?raw=true) <br/> 
+Rule 71: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule71.png?raw=true) <br/> 
+Rule 72: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule72.png?raw=true) <br/> 
+Rule 73: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule73.png?raw=true) <br/> 
+Rule 74: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule74.png?raw=true) <br/> 
+Rule 75: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule75.png?raw=true) <br/> 
+Rule 76: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule76.png?raw=true) <br/> 
+Rule 77: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule77.png?raw=true) <br/> 
+Rule 78: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule78.png?raw=true) <br/> 
+Rule 79: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule79.png?raw=true) <br/> 
+Rule 80: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule80.png?raw=true) <br/> 
+Rule 81: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule81.png?raw=true) <br/> 
+Rule 82: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule82.png?raw=true) <br/> 
+Rule 83: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule83.png?raw=true) <br/> 
+Rule 84: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule84.png?raw=true) <br/> 
+Rule 85: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule85.png?raw=true) <br/> 
+Rule 86: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule86.png?raw=true) <br/> 
+Rule 87: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule87.png?raw=true) <br/> 
+Rule 88: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule88.png?raw=true) <br/> 
+Rule 89: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule89.png?raw=true) <br/> 
+Rule 90: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule90.png?raw=true) <br/> 
+Rule 91: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule91.png?raw=true) <br/> 
+Rule 92: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule92.png?raw=true) <br/> 
+Rule 93: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule93.png?raw=true) <br/> 
+Rule 94: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule94.png?raw=true) <br/> 
+Rule 95: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule95.png?raw=true) <br/> 
+Rule 96: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule96.png?raw=true) <br/> 
+Rule 97: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule97.png?raw=true) <br/> 
+Rule 98: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule98.png?raw=true) <br/> 
+Rule 99: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule99.png?raw=true) <br/> 
+Rule 100: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule100.png?raw=true) <br/> 
+Rule 101: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule101.png?raw=true) <br/> 
+Rule 102: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule102.png?raw=true) <br/> 
+Rule 103: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule103.png?raw=true) <br/> 
+Rule 104: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule104.png?raw=true) <br/> 
+Rule 105: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule105.png?raw=true) <br/> 
+Rule 106: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule106.png?raw=true) <br/> 
+Rule 107: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule107.png?raw=true) <br/> 
+Rule 108: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule108.png?raw=true) <br/> 
+Rule 109: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule109.png?raw=true) <br/> 
+Rule 110: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule110.png?raw=true) <br/> 
+Rule 111: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule111.png?raw=true) <br/> 
+Rule 112: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule112.png?raw=true) <br/> 
+Rule 113: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule113.png?raw=true) <br/> 
+Rule 114: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule114.png?raw=true) <br/> 
+Rule 115: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule115.png?raw=true) <br/> 
+Rule 116: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule116.png?raw=true) <br/> 
+Rule 117: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule117.png?raw=true) <br/> 
+Rule 118: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule118.png?raw=true) <br/> 
+Rule 119: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule119.png?raw=true) <br/> 
+Rule 120: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule120.png?raw=true) <br/> 
+Rule 121: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule121.png?raw=true) <br/> 
+Rule 122: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule122.png?raw=true) <br/> 
+Rule 123: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule123.png?raw=true) <br/> 
+Rule 124: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule124.png?raw=true) <br/> 
+Rule 125: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule125.png?raw=true) <br/> 
+Rule 126: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule126.png?raw=true) <br/> 
+Rule 127: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule127.png?raw=true) <br/> 
+Rule 128: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule128.png?raw=true) <br/> 
+Rule 129: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule129.png?raw=true) <br/> 
+Rule 130: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule130.png?raw=true) <br/> 
+Rule 131: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule131.png?raw=true) <br/> 
+Rule 132: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule132.png?raw=true) <br/> 
+Rule 133: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule133.png?raw=true) <br/> 
+Rule 134: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule134.png?raw=true) <br/> 
+Rule 135: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule135.png?raw=true) <br/> 
+Rule 136: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule136.png?raw=true) <br/> 
+Rule 137: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule137.png?raw=true) <br/> 
+Rule 138: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule138.png?raw=true) <br/> 
+Rule 139: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule139.png?raw=true) <br/> 
+Rule 140: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule140.png?raw=true) <br/> 
+Rule 141: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule141.png?raw=true) <br/> 
+Rule 142: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule142.png?raw=true) <br/> 
+Rule 143: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule143.png?raw=true) <br/> 
+Rule 144: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule144.png?raw=true) <br/> 
+Rule 145: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule145.png?raw=true) <br/> 
+Rule 146: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule146.png?raw=true) <br/> 
+Rule 147: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule147.png?raw=true) <br/> 
+Rule 148: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule148.png?raw=true) <br/> 
+Rule 149: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule149.png?raw=true) <br/> 
+Rule 150: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule150.png?raw=true) <br/> 
+Rule 151: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule151.png?raw=true) <br/> 
+Rule 152: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule152.png?raw=true) <br/> 
+Rule 153: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule153.png?raw=true) <br/> 
+Rule 154: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule154.png?raw=true) <br/> 
+Rule 155: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule155.png?raw=true) <br/> 
+Rule 156: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule156.png?raw=true) <br/> 
+Rule 157: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule157.png?raw=true) <br/> 
+Rule 158: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule158.png?raw=true) <br/> 
+Rule 159: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule159.png?raw=true) <br/> 
+Rule 160: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule160.png?raw=true) <br/> 
+Rule 161: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule161.png?raw=true) <br/> 
+Rule 162: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule162.png?raw=true) <br/> 
+Rule 163: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule163.png?raw=true) <br/> 
+Rule 164: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule164.png?raw=true) <br/> 
+Rule 165: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule165.png?raw=true) <br/> 
+Rule 166: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule166.png?raw=true) <br/> 
+Rule 167: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule167.png?raw=true) <br/> 
+Rule 168: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule168.png?raw=true) <br/> 
+Rule 169: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule169.png?raw=true) <br/> 
+Rule 170: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule170.png?raw=true) <br/> 
+Rule 171: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule171.png?raw=true) <br/> 
+Rule 172: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule172.png?raw=true) <br/> 
+Rule 173: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule173.png?raw=true) <br/> 
+Rule 174: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule174.png?raw=true) <br/> 
+Rule 175: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule175.png?raw=true) <br/> 
+Rule 176: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule176.png?raw=true) <br/> 
+Rule 177: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule177.png?raw=true) <br/> 
+Rule 178: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule178.png?raw=true) <br/> 
+Rule 179: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule179.png?raw=true) <br/> 
+Rule 180: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule180.png?raw=true) <br/> 
+Rule 181: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule181.png?raw=true) <br/> 
+Rule 182: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule182.png?raw=true) <br/> 
+Rule 183: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule183.png?raw=true) <br/> 
+Rule 184: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule184.png?raw=true) <br/> 
+Rule 185: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule185.png?raw=true) <br/> 
+Rule 186: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule186.png?raw=true) <br/> 
+Rule 187: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule187.png?raw=true) <br/> 
+Rule 188: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule188.png?raw=true) <br/> 
+Rule 189: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule189.png?raw=true) <br/> 
+Rule 190: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule190.png?raw=true) <br/> 
+Rule 191: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule191.png?raw=true) <br/> 
+Rule 192: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule192.png?raw=true) <br/> 
+Rule 193: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule193.png?raw=true) <br/> 
+Rule 194: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule194.png?raw=true) <br/> 
+Rule 195: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule195.png?raw=true) <br/> 
+Rule 196: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule196.png?raw=true) <br/> 
+Rule 197: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule197.png?raw=true) <br/> 
+Rule 198: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule198.png?raw=true) <br/> 
+Rule 199: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule199.png?raw=true) <br/> 
+Rule 200: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule200.png?raw=true) <br/> 
+Rule 201: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule201.png?raw=true) <br/> 
+Rule 202: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule202.png?raw=true) <br/> 
+Rule 203: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule203.png?raw=true) <br/> 
+Rule 204: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule204.png?raw=true) <br/> 
+Rule 205: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule205.png?raw=true) <br/> 
+Rule 206: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule206.png?raw=true) <br/> 
+Rule 207: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule207.png?raw=true) <br/> 
+Rule 208: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule208.png?raw=true) <br/> 
+Rule 209: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule209.png?raw=true) <br/> 
+Rule 210: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule210.png?raw=true) <br/> 
+Rule 211: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule211.png?raw=true) <br/> 
+Rule 212: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule212.png?raw=true) <br/> 
+Rule 213: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule213.png?raw=true) <br/> 
+Rule 214: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule214.png?raw=true) <br/> 
+Rule 215: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule215.png?raw=true) <br/> 
+Rule 216: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule216.png?raw=true) <br/> 
+Rule 217: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule217.png?raw=true) <br/> 
+Rule 218: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule218.png?raw=true) <br/> 
+Rule 219: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule219.png?raw=true) <br/> 
+Rule 220: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule220.png?raw=true) <br/> 
+Rule 221: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule221.png?raw=true) <br/> 
+Rule 222: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule222.png?raw=true) <br/> 
+Rule 223: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule223.png?raw=true) <br/> 
+Rule 224: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule224.png?raw=true) <br/> 
+Rule 225: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule225.png?raw=true) <br/> 
+Rule 226: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule226.png?raw=true) <br/> 
+Rule 227: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule227.png?raw=true) <br/> 
+Rule 228: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule228.png?raw=true) <br/> 
+Rule 229: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule229.png?raw=true) <br/> 
+Rule 230: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule230.png?raw=true) <br/> 
+Rule 231: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule231.png?raw=true) <br/> 
+Rule 232: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule232.png?raw=true) <br/> 
+Rule 233: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule233.png?raw=true) <br/> 
+Rule 234: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule234.png?raw=true) <br/> 
+Rule 235: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule235.png?raw=true) <br/> 
+Rule 236: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule236.png?raw=true) <br/> 
+Rule 237: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule237.png?raw=true) <br/> 
+Rule 238: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule238.png?raw=true) <br/> 
+Rule 239: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule239.png?raw=true) <br/> 
+Rule 240: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule240.png?raw=true) <br/> 
+Rule 241: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule241.png?raw=true) <br/> 
+Rule 242: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule242.png?raw=true) <br/> 
+Rule 243: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule243.png?raw=true) <br/> 
+Rule 244: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule244.png?raw=true) <br/> 
+Rule 245: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule245.png?raw=true) <br/> 
+Rule 246: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule246.png?raw=true) <br/> 
+Rule 247: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule247.png?raw=true) <br/> 
+Rule 248: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule248.png?raw=true) <br/> 
+Rule 249: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule249.png?raw=true) <br/> 
+Rule 250: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule250.png?raw=true) <br/> 
+Rule 251: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule251.png?raw=true) <br/> 
+Rule 252: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule252.png?raw=true) <br/> 
+Rule 253: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule253.png?raw=true) <br/> 
+Rule 254: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule254.png?raw=true) <br/> 
+Rule 255: <br/> 
+ ![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule255.png?raw=true) <br/> 
