@@ -1,4 +1,7 @@
 # Elementary-cellular-automaton
 
-![alt text](https://github.com/dalvagon/L-system-tree/blob/main/assets/ss1.png?raw=true)
-![alt text](https://github.com/dalvagon/L-system-tree/blob/main/assets/ss2.png?raw=true)
+Rule 0:
+![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule0.png?raw=true)
+
+Rule 1:
+![alt text](https://github.com/dalvagon/Elementary-cellular-automaton/blob/main/assets/rule1.png?raw=true)
